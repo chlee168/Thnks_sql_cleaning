@@ -1,1 +1,1 @@
-# Thnks_sql_cleaning
+Data cleaning using T-SQL and ETL functions
